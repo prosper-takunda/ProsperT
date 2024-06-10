@@ -9,7 +9,7 @@
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
  
-<p align="center"> BMW MD💥, A Simple WhatsApp user BOT, Created by Ibrahim Tech.
+<p align="center"> NAX MD💥, A Simple WhatsApp user BOT, Created by Ibrahim Tech.
 </p>
 <p align="center">
 
@@ -19,7 +19,7 @@
  <h1 align="center">  SCAN SESSION </h1>
  
 
-[PAIRING CODE]  ***[`TAP HERE TO SCAN PAIRING CODE`](https://bmw-code-app-c1168f4953cd.herokuapp.com/pair)***
+[PAIRING CODE]  ***[`TAP HERE TO SCAN PAIRING CODE`](https://nax-code-app-c1168f4953cd.herokuapp.com/pair)***
 
 
   
@@ -50,7 +50,7 @@ HOW TO REACH THE OWNER?
 ## STEPS TO DEPLOY YOUR BOT
 
 
-1, Star the repo up there then click Here To  [`FORK`](https://github.com/ibrahimaitech/BMW-MD/fork)
+1, Star the repo up there then click Here To  [`FORK`](https://github.com/ibrahimaitech/Nax-MD/fork)
 
 2, TAP ON IBRAHIM TECH APP DOWN THERE
 
@@ -69,7 +69,7 @@ HOW TO REACH THE OWNER?
 
  <h1 align="center">
 
-  ***[`TAP HERE TO DEPLOY ON HEROKU`](https://dashboard.heroku.com/new?template=https://github.com/ibrahimaitech/BMW-MD)***
+  ***[`TAP HERE TO DEPLOY ON HEROKU`](https://dashboard.heroku.com/new?template=https://github.com/ibrahimaitech/NAX-MD)***
 
 
 
@@ -77,8 +77,8 @@ HOW TO REACH THE OWNER?
 
 
 
-  ***<p align="center"><a href="https://bmw-code-app-c1168f4953cd.herokuapp.com/">
- <img src="https://img.shields.io/badge/TAP%20HERE%20TO%20OPEN%20IBRAHIM%20TECH%20APP-Yellow?style=for-the-badge&logo=bmw" width="220" height="38.45"/></a></p>***
+  ***<p align="center"><a href="https://nax-code-app-c1168f4953cd.herokuapp.com/">
+ <img src="https://img.shields.io/badge/TAP%20HERE%20TO%20OPEN%20IBRAHIM%20TECH%20APP-Yellow?style=for-the-badge&logo=juice world" width="220" height="38.45"/></a></p>***
 
 
 
@@ -98,9 +98,9 @@ Contributions to *BMW-MD* are welcome! If you have ideas for new features, impro
 
 ## License
 
-The *BMW-MD* is released under the [MIT License](https://opensource.org/licenses/MIT).
+The *NAX-MD* is released under the [MIT License](https://opensource.org/licenses/MIT).
 
-Enjoy the diverse features of the *BMW-MD*  to enhance your Whatsapp more enjoyable
+Enjoy the diverse features of the *NAX-MD*  to enhance your Whatsapp more enjoyable
 ☣Powered by Ibrahim Tech
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
